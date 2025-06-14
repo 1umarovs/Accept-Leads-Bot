@@ -54,7 +54,7 @@ This is a custom **Telegram bot** developed for **DevClub IT Academy** to automa
 ## 📅 About the Project
 
 - 🛠 Developer: Muhammadyusuf Umarov  
-- 📆 Created in: **2023**  
+- 📆 Created in: **2024**  
 - 🎯 Purpose: Automate course registration and streamline data collection for DevClub
 
 ---
